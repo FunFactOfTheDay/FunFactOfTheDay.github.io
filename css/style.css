@@ -178,6 +178,11 @@ h2 {
   display: block;
   clear: both;
 }
+#nav-link{
+  color: #C2E812;
+  text-decoration: none;
+  font-size: 25px;
+}
 a.nav-link:link
 {
   color: #C2E812;
@@ -297,6 +302,7 @@ a.nav-link:active
 #leftmedialink
 {
 	text-align: center;
+	border:0;
 }
 #leftmediaimage
 {
@@ -306,6 +312,7 @@ a.nav-link:active
 	margin-left:31.333%;
 	width:10%;
 	height: auto;
+	border:0;
 }
 
 #middlemediaimage
@@ -315,6 +322,7 @@ a.nav-link:active
 	width:10%;
 	height:auto;
 	margin-top:0;
+	border:0;
 }
 
 #rightmediaimage
@@ -323,6 +331,7 @@ a.nav-link:active
 	margin-top:2%;
 	width:10%;
 	height:auto;
+	border:0;
 	
 }
 

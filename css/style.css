@@ -294,6 +294,38 @@ a.nav-link:active
   padding:0px;
 }
 /*"Contact" Classes*/
+#leftmedialink
+{
+	text-align: center;
+}
+#leftmediaimage
+{
+	display: inline;
+	margin:0;
+	margin-top:2%;
+	margin-left:33.333%;
+	width:10%;
+	height: auto;
+}
+
+#middlemediaimage
+{
+	margin:0;
+	margin-top:2%;
+	width:10%;
+	height:auto;
+	margin-top:0;
+}
+
+#rightmediaimage
+{
+	margin:0;
+	margin-top:2%;
+	width:10%;
+	height:auto;
+	
+}
+
 
 
 /*"Facts" Classes*/
